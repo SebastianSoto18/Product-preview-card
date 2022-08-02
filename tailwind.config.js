@@ -3,6 +3,7 @@ tailwind.config = {
         extend: {
             colors: {
                 Darkcyan: 'hsl(158, 36%, 37%)',
+                veryDarkcyan: 'hsl(158, 40%, 20%)',
                 Cream: 'hsl(30, 38%, 92%)',
                 Verydarkblue:'hsl(212, 21%, 14%)',
                 Darkgrayishblue: 'hsl(228, 12%, 48%)',
