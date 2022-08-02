@@ -2,15 +2,16 @@ tailwind.config = {
     theme: {
         extend: {
             colors: {
-                clifford: '#da373d',
-                Whiter: 'hsl(0, 0%, 100%)',
-                Light_gray: 'hsl(212, 45%, 89%)',
-                Grayish_blue: 'hsl(220, 15%, 55%)',
-                Dark_blue: 'hsl(218, 44%, 22%)',
+                Darkcyan: 'hsl(158, 36%, 37%)',
+                Cream: 'hsl(30, 38%, 92%)',
+                Verydarkblue:'hsl(212, 21%, 14%)',
+                Darkgrayishblue: 'hsl(228, 12%, 48%)',
+                White: 'hsl(0, 0%, 100%)'
             },
 
             fontFamily:{
-                Outfit: ['Outfit', 'sans-serif'],
+                Montserrat: ['Montserrat', 'sans-serif'],
+                Fraunces: ['Fraunces', 'serif'],
             },
 
             width: {
